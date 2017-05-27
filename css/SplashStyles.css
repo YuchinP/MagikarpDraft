@@ -1,0 +1,10 @@
+body {
+  background-image: url("../img/background.jpg");
+  background-size: cover;
+}
+
+#splashHeader img {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 12px;
+}
